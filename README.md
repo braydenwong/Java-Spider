@@ -4,3 +4,5 @@
 java爬取豆瓣电影评论,利用jsoup解析
 ### zhongguancun
 java爬取中关村网站手机参数，利用jsoup解析
+### youtube
+java爬取YouTuBe网站视频数据(观看量等)
